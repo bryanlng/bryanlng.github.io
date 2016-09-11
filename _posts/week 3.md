@@ -6,13 +6,18 @@ title: Week Three
 <h1> Week 3 Post! Now with a better profile picture! </h1>
 
 <h2>What did you do this past week? </h2>
+
 This past week, I spent the majority of my time working on the project and updating my resume and Linkedin. The project was fairly easy, and I was able to get my code to pass all tests on TestCollatz and UVa 6 hours before the project was due. However, I made the mistake of trying to implement a complex cache optimization when I should have just turned in the project. I was unable to come up with a working solution with the cache optimization, and in doing so, I miscalculated the time it would take to do the other smaller things in the project ( such as forking the public test repo, creating a pull request, creating a JSON file). This resulted in me having to the turn in the project 1 day late, resulting in a 20 point loss (plus some other points for not doing the cache optimization + possible other unnoticed errors). In the end, I lost 25-30 points on a project where I really should have lost 5 - 10 points on, just because I didn't manage my time wisely.
+
 <h2>What's in your way?</h2>
 Just the sheer amount of things I have to do this next week. I have to finish up my OS project by Friday, which leaves me little to no time to work on the OOP project this week. Basically, this means I'll have to start the OOP project next Saturday.
+
 <h2>What will you do next week?</h2>
 Next week, I plan to 1) Finish my OS project. But more importantly, I plan to catch up with everything on this course and get my schedule together.   
+
 <h2>Experience in the class:</h2>
 Class was interesting as usual. For the past week, we've been going over the concept of an alias pointer (ex: int*&), which still does not make sense to me. I'll have to find some time to do some research on it
+
 <h2>Pick of the week:</h2>
 <a href = "http://creddle.io/">http://creddle.io/</a>
 Possibly one of the best resume creating websites I have ever used. It's completely free, and it offers you many free high quality templates to choose from. The interface is very easy to use, and it grants the user a wide range of options. After you're done, you can export it to a PDF file (using chrome).
